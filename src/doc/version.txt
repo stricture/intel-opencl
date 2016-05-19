@@ -1,0 +1,2 @@
+Version=5.2.0.10002
+InternalVersion=db725b8c5a11c3e3425852c1bc84dae53b732aa5

@@ -1,0 +1,5 @@
+intel-opencl (16:1.2-5.2.0.10002-2) trusty; urgency=medium
+
+  * Initial release.
+
+ -- Jeremi Gosney <jgosney@sagitta.pw>  Wed, 18 May 2016 21:00:38 -0700

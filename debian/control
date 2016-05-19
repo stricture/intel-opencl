@@ -1,0 +1,10 @@
+Source: intel-opencl
+Maintainer: Jeremi Gosney <jgosney@sagitta.pw>
+Section: misc
+Priority: important
+Standards-Version: 3.9.2
+
+Package: intel-opencl
+Architecture: amd64
+Description: Intel OpenCL CPU runtime
+ Intel OpenCL runtime and ICD for CPU & Xeon Phi
