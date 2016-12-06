@@ -6,5 +6,6 @@ Standards-Version: 3.9.2
 
 Package: intel-opencl
 Architecture: amd64
+Depends: ocl-icd-libopencl1 | hashstack-nvidia-driver | hashstack-amd-driver
 Description: Intel OpenCL CPU runtime
  Intel OpenCL runtime and ICD for CPU & Xeon Phi
