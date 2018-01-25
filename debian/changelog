@@ -1,3 +1,9 @@
+intel-opencl (16:1.2-5.2.0.10002-3) trusty; urgency=medium
+
+  * fix symlinks
+
+ -- root <jgosney@terahash.com>  Thu, 25 Jan 2018 00:04:03 -0600
+
 intel-opencl (16:1.2-5.2.0.10002-2) trusty; urgency=medium
 
   * Initial release.
