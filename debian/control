@@ -1,11 +1,11 @@
 Source: intel-opencl
-Maintainer: Jeremi Gosney <jgosney@sagitta.pw>
+Maintainer: Jeremi Gosney <jgosney@terahash.com>
 Section: misc
 Priority: important
 Standards-Version: 3.9.2
 
 Package: intel-opencl
 Architecture: amd64
-Depends: ocl-icd-libopencl1 | hashstack-nvidia-driver | hashstack-amd-driver
+Depends: ocl-icd-libopencl1
 Description: Intel OpenCL CPU runtime
  Intel OpenCL runtime and ICD for CPU & Xeon Phi
